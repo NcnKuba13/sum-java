@@ -15,6 +15,15 @@ odpowiedzialnej za wygenerowanie ciągu jedynkowego na podstawie danychpodstawio
 W klasie main uwzględniono też mechanizm obsługi błęędów i wyjątków, aby podawane zmienne były zgodne z założeniami.
 
 ## Schemat blokowy
-<img src="https://github.com/NcnKuba13/sum-java/blob/main/screens/schem.png)https://github.com/NcnKuba13/sum-java/blob/main/screens/schem.png" width="256">
+<img src="https://github.com/NcnKuba13/sum-java/blob/main/screens/schem.png" width="444">
 
 ## Przykładowe zrzuty ekranu
+
+#### Przykładowo wygenerowany ciąg.
+<img src="https://github.com/NcnKuba13/sum-java/blob/main/screens/git.png" width="444">
+
+#### Ciąg o podanych parametrach nie istnieje.
+<img src="https://github.com/NcnKuba13/sum-java/blob/main/screens/nima.png" width="444">
+
+#### Wprowadzenie błędnych wartości zmiennej S.
+<img src="https://github.com/NcnKuba13/sum-java/blob/main/screens/zles1.png" width="444">
