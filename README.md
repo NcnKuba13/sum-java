@@ -18,7 +18,6 @@ W klasie main uwzględniono też mechanizm obsługi błęędów i wyjątków, ab
 <img src="https://github.com/NcnKuba13/sum-java/blob/main/screens/schem.png" width="444">
 
 ## Przykładowe zrzuty ekranu
-
 #### Przykładowo wygenerowany ciąg.
 <img src="https://github.com/NcnKuba13/sum-java/blob/main/screens/git.png" width="444">
 
